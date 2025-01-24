@@ -1,2 +1,2 @@
-# python-strings
+# python
 questions
